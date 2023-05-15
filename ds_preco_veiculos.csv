@@ -1,4 +1,4 @@
-car_ID,symboling,CarName,fueltype,aspiration,doornumber,carbody,drivewheel,enginelocation,wheelbase,carlength,carwidth,carheight,curbweight,enginetype,cylindernumber,enginesize,fuelsystem,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,highwaympg,price
+carro_id, seguranca, nome_carro, tipo_combustivel, aspiracao, numero_portas, carroceria, tracao, localizacao_motor, distancia_entre_ eixos, comprimento_veiculo, largura_veiculo, altura_veiculo, peso_veiculo, tipo_motor, numero_cilindros, tamanho_motor, sistema_combustivel, diametro_cilindro, distancia_pistao, taxa_compressao, potencia, rpm_max, rpm_cidade, rpm_estrada, preço
 1,3,alfa-romero giulia,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,13495
 2,3,alfa-romero stelvio,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,16500
 3,1,alfa-romero Quadrifoglio,gas,std,two,hatchback,rwd,front,94.5,171.2,65.5,52.4,2823,ohcv,six,152,mpfi,2.68,3.47,9,154,5000,19,26,16500
