@@ -1,5 +1,5 @@
 carro_id,seguranca,nome_carro,tipo_combustivel,aspiracao,numero_portas,carroceria,tracao,localizacao_motor,distancia_entre_ eixos,comprimento_veiculo,largura_veiculo,altura_veiculo,peso_veiculo,tipo_motor,numero_cilindros,tamanho_motor,sistema_combustivel,diametro_cilindro,distancia_pistao,taxa_compressao,potencia,rpm_max,rpm_cidade,rpm_estrada,preco
-1,3,alfa-romero giulia,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,13495
+1,3,alfa-romero giulia,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,
 2,3,alfa-romero stelvio,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,16500
 3,1,alfa-romero Quadrifoglio,gas,std,two,hatchback,rwd,front,94.5,171.2,65.5,52.4,2823,ohcv,six,152,mpfi,2.68,3.47,9,154,5000,19,26,16500
 4,2,audi 100 ls,gas,std,four,sedan,fwd,front,99.8,176.6,66.2,54.3,2337,ohc,four,109,mpfi,3.19,3.4,10,102,5500,24,30,13950
@@ -12,7 +12,7 @@ carro_id,seguranca,nome_carro,tipo_combustivel,aspiracao,numero_portas,carroceri
 11,2,bmw 320i,gas,std,two,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16430
 12,0,bmw 320i,gas,std,four,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16925
 13,0,bmw x1,gas,std,two,sedan,rwd,front,101.2,176.8,64.8,54.3,2710,ohc,six,164,mpfi,3.31,3.19,9,121,4250,21,28,20970
-14,0,bmw x3,gas,std,four,sedan,rwd,front,101.2,176.8,64.8,54.3,2765,ohc,six,164,mpfi,3.31,3.19,9,121,4250,21,28,21105
+14,0,bmw x3,gas,std,four,sedan,rwd,front,101.2,176.8,64.8,54.3,2765,ohc,six,164,mpfi,3.31,3.19,9,121,4250,21,,21105
 15,1,bmw z4,gas,std,four,sedan,rwd,front,103.5,189,66.9,55.7,3055,ohc,six,164,mpfi,3.31,3.19,9,121,4250,20,25,24565
 16,0,bmw x4,gas,std,four,sedan,rwd,front,103.5,189,66.9,55.7,3230,ohc,six,209,mpfi,3.62,3.39,8,182,5400,16,22,30760
 17,0,bmw x5,gas,std,two,sedan,rwd,front,103.5,193.8,67.9,53.7,3380,ohc,six,209,mpfi,3.62,3.39,8,182,5400,16,22,41315
